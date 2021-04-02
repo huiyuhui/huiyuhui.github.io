@@ -1,0 +1,1 @@
+'use strict';(function(){const a={cache:!0};a.doc={id:'id',field:['title','content'],store:['title','href','section']};const b=FlexSearch.create('balance',a);window.bookSearchIndex=b,b.add({id:0,href:'/posts/my-first-post/',title:"My First Post",section:"Posts",content:"#我的静态文档库 1.aaaaa 2.bbbbb 3.ccccc\n"})})()
