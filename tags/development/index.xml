@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>development on Hui Yuhui&#39;s Doc</title>
+    <title>development on 惠玉会个人博客</title>
     <link>https://huiyuhui.github.io/tags/development/</link>
-    <description>Recent content in development on Hui Yuhui&#39;s Doc</description>
+    <description>Recent content in development on 惠玉会个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://huiyuhui.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(Hu)go Template Primer</title>
