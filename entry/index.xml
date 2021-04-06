@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Entries on 惠玉会个人博客</title>
+    <title>Entries on Hui yuhui&#39;s Doc</title>
     <link>https://huiyuhui.github.io/entry/</link>
-    <description>Recent content in Entries on 惠玉会个人博客</description>
+    <description>Recent content in Entries on Hui yuhui&#39;s Doc</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 17 Dec 2017 14:00:45 +0000</lastBuildDate><atom:link href="https://huiyuhui.github.io/entry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello_world2</title>
